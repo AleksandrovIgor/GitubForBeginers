@@ -4,6 +4,10 @@
 Index html fthbirublhilxf
 
 fxjbjso;factory
+1
+2
+3
+
 
  Test suite for bugs declared in the PHP_CompatInfo class
  *
